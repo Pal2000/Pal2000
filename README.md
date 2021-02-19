@@ -49,7 +49,7 @@ Here are some ideas to get you started:
  
 ## 🌟🌟 Connect With Me 
 
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/pallavi-58b85a18a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <hr>
 
  
