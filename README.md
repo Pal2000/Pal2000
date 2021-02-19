@@ -23,7 +23,7 @@ Here are some ideas to get you started:
         <li> 📈I am a Competitive Programmer and a software developer </li>
         <li>👩🏻‍🎓Currently pursuing B.Tech.CSE in Lovely Professional University</li>
         <li>⛪ Living in Phagwara, Punjab(ਪੰਜਾਬ) </li>
-        <li>✍🏻 Love to lock my good moments inside my notebook </li>
+        <li>✍🏻 I Love to lock my good moments into my notebook </li>
         <li>💻📲 Interest in Web development and Android App Development </li>
         <li>⚡ Always ready to learn new Tech </li>
         <li>🙂 Able to handle pressurize stituation with smartness, hardwork and smile </li>
