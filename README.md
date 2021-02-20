@@ -1,4 +1,4 @@
-### Hi there, I am Pallavi 👋
+### Hi there, I am Pallavi 👋<img src="https://github.com/ABSphreak/ABSphreak/tree/master/gifs/Hi.gif">
 
 <!--
 **Pal2000/Pal2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
