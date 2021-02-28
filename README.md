@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <td>
       <ul>
         <li> 📈I am a Competitive Programmer and a software developer </li>
-        <li>👩🏻‍🎓Currently pursuing B.Tech.CSE in Lovely Professional University</li>
+        <li>👩🏻‍🎓Currently pursuing B.Tech. CSE from Lovely Professional University</li>
         <li>⛪ Living in Phagwara, Punjab(ਪੰਜਾਬ) </li>
         <li>✍🏻 I Love to lock my good moments into my notebook </li>
         <li>💻📲 Interest in Web development and Android App Development </li>
