@@ -20,14 +20,12 @@ Here are some ideas to get you started:
     <th>
     <td>
       <ul>
-        <li> 📈I am a Competitive Programmer and a software developer </li>
+        <li> 📈I am a Competitive Programmer and a software engineer </li>
         <li>👩🏻‍🎓Currently pursuing B.Tech. CSE from Lovely Professional University</li>
         <li>⛪ Living in Phagwara, Punjab(ਪੰਜਾਬ) </li>
-        <li>✍🏻 I Love to lock my good moments into my notebook </li>
         <li>💻📲 Interested in Web development and Android App Development </li>
         <li>⚡ Always ready to learn new Tech </li>
         <li>🙂 Able to handle pressurize stituation with smartness, hardwork and smile </li>
-        <li>👩🏻 Ready for giving my 💯 to corporate world  </li>
       </ul>
         </td>
      </th>
